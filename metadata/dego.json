@@ -1,27 +1,28 @@
 {
-    "name": "DEGO",
-    "symbol": "DEGO",
-    "description": "Utility of dogs on gods",
-    "image": "https://firebasestorage.googleapis.com/v0/b/bcs-public-portal.appspot.com/o/dego.jpg?alt=media&token=c42df401-76d5-4177-875e-757746019817",
-    "external_url": "https://dego.com",
-    "properties": {
-      "files": [
-        {
-          "uri": "https://firebasestorage.googleapis.com/v0/b/bcs-public-portal.appspot.com/o/dego.jpg?alt=media&token=c42df401-76d5-4177-875e-757746019817",
-          "type": "image/png"
-        }
-      ],
-      "category": "cryptocurrency",
-      "creators": []
-    },
-    "attributes": [
+  "name": "DEGO",
+  "symbol": "DEGO",
+  "description": "DEGO is a utility token for the DEGO ecosystem",
+  "image": "https://raw.githubusercontent.com/boring-devv/DEGO/refs/heads/main/dego.jpg",
+  "external_url": "https://your-dego-website.com",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    }
+  ],
+  "properties": {
+    "files": [
       {
-        "trait_type": "Total Supply",
-        "value": "356,567,345,211,345,279,265,366,344,789.001"
-      },
+        "uri": "https://raw.githubusercontent.com/boring-devv/DEGO/refs/heads/main/dego.jpg",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
       {
-        "trait_type": "Price Peg",
-        "value": "1 SOL"
+        "address": "YOUR_WALLET_ADDRESS",
+        "share": 100
       }
     ]
   }
+}
